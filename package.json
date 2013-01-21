@@ -1,0 +1,16 @@
+{
+    "name": "HostKitModelLayer"
+  , "version": "0.0.1"
+  , "description": "Handles read, write, update, delete, sorting, and organization of all data used by the Host Kit app."
+  , "keywords": ["host kit", "mongodb", "model"]
+  , "author": "Joe Lessard"
+  , "main": "server"
+  , "engines": { "node": ">= 0.4.x < 0.8.15" }
+  , "scripts": {
+    "test": "make test"
+  }
+  , "dependencies": {
+    "mocha": "0.3.x",
+    "mongodb": "1.2.2"
+  }
+}

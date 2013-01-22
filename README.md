@@ -7,4 +7,6 @@ NodeJSMongoDBMocha-HostKitSandbox
 
 3) run 'make test'
 
+Note: depending on your terminal skin, you may or may not be able to read everything Mocha outputs...
+
 Voila!

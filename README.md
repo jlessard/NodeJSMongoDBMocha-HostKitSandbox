@@ -1,6 +1,17 @@
 NodeJSMongoDBMocha-HostKitSandbox
 =================================
 
+Installation
+------------
+
+1) clone/fork
+
+2) npm install
+
+
+Running Tests
+-------------
+
 1) Start your mongodb server
 
 2) Terminal to the git repo

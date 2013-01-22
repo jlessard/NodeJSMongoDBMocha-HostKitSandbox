@@ -1,4 +1,8 @@
 NodeJSMongoDBMocha-HostKitSandbox
 =================================
 
-As soon as I remember how to work this thing...
+1) Start your mongodb server
+2) Terminal to the git repo
+3) run 'make test'
+
+Voila!
